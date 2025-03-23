@@ -1,1 +1,4 @@
 # Testowanie_hipotez_statystycznych
+
+Projekt ma na celu przeprowadzenie testów statystycznych dotyczących średniej (zadanie 1) oraz wariancji (zadanie 2) w populacji generalnej o rozkładzie normalnym. Zadanie 3 dotyczy analizy możliwości popełnienia błędów I i II rodzaju podczas przeprowadzania wspomnianych testów.
+Dane zostały wygenerowane na potrzeby raportu oraz zebrane w 2 plikach: lista8_zad1.txt oraz lista8_zad2.txt. Pliki zadanie_1.ipynb, zadanie_2.ipynb oraz zadanie_3.ipynb zawierają treść każdego zadania oraz obliczenia, pliki PNG - wykresy, natomiast plik raport.pdf zawiera tekst raportu wraz z wykresami oraz wnioskami.
